@@ -1,0 +1,2263 @@
+Archive member included because of file (symbol)
+
+E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+                              ./custom/src/memory.o (Ql_FS_Open)
+E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fota.o)
+                              ./custom/fota/src/fota_main.o (Ql_FOTA_Init)
+E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gpio.o)
+                              ./custom/src/main.o (Ql_GPIO_Init)
+E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gprs.o)
+                              ./custom/src/main.o (Ql_GPRS_GetPDPContextId)
+E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(iic.o)
+                              ./example/nema_pro.o (Ql_IIC_Write)
+E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(lib_ril_sms.o)
+                              ./ril/src/ril_sms.o (LIB_SMS_IsValidHexStr)
+E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(memory.o)
+                              ./ril/src/ril_bluetooth.o (Ql_MEM_Alloc)
+E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_func.o)
+                              E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(memory.o) (api_notsup)
+E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_main.o)
+                              ./ril/src/ril_bluetooth.o (Ql_Debug_Trace)
+E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ril_aux.o)
+                              ./custom/config/sys_config.o (proc_reserved2)
+E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ril_main.o)
+                              ./custom/config/sys_config.o (proc_reserved1)
+E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(socket.o)
+                              ./custom/src/main.o (Ql_SOC_Register)
+E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(stdlib_func.o)
+                              ./ril/src/ril_dtmf.o (Ql_atof)
+E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(system.o)
+                              ./ril/src/ril_ftp.o (Ql_Sleep)
+E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(taskMngt.o)
+                              ./custom/src/main.o (Ql_OS_GetMessage)
+E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(timer.o)
+                              ./custom/src/watchdog_task.o (Ql_Timer_Register)
+E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(uart.o)
+                              ./custom/src/main.o (Ql_UART_Register)
+E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(watchdog.o)
+                              ./custom/src/watchdog_task.o (Ql_WTD_Init)
+E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ocpu_init.o)
+                              E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_main.o) (_OCPU_InitUserMem)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memcpy.o)
+                              ./custom/src/function.o (memcpy)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memset.o)
+                              ./ril/src/ril_alarm.o (memset)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strlen.o)
+                              ./custom/src/sms.o (strlen)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_udivsi3.o)
+                              ./custom/fota/src/fota_http.o (__aeabi_uidiv)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_divsi3.o)
+                              E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(lib_ril_sms.o) (__aeabi_idiv)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_dvmd_tls.o)
+                              C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_addsubdf3.o)
+                              ./custom/src/function.o (__aeabi_f2d)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixdfsi.o)
+                              ./ril/src/ril_dtmf.o (__aeabi_d2iz)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_truncdfsf2.o)
+                              ./ril/src/ril_location.o (__aeabi_d2f)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_addsubsf3.o)
+                              ./custom/src/function.o (__aeabi_fsub)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_muldivsf3.o)
+                              ./custom/src/function.o (__aeabi_fdiv)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_cmpsf2.o)
+                              ./custom/src/function.o (__aeabi_fcmple)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixsfsi.o)
+                              ./custom/src/function.o (__aeabi_f2iz)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixunssfsi.o)
+                              ./custom/src/function.o (__aeabi_f2uiz)
+
+Allocating common symbols
+Common symbol       size              file
+
+Select_Operator     0x1               ./custom/src/declaration.o
+MQTT_PING_FAIL      0x1               ./custom/src/mqtt.o
+TIME                0xf               ./custom/src/declaration.o
+modbus_str          0xc8              ./custom/src/declaration.o
+Ql_snprintf         0x4               E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_main.o)
+upgrade_filename    0xa               ./custom/src/declaration.o
+response            0x15e             ./custom/src/declaration.o
+Ql_sprintf          0x4               E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_main.o)
+Ql_Debug_Trace      0x4               E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_main.o)
+SecureDataStringLen
+                    0x4               ./ril/src/ril_system.o
+u4OverflowPkt       0x4               ./example/nema_pro.o
+flow                0x4               ./custom/src/declaration.o
+primary_server      0x32              ./custom/src/declaration.o
+Ql_sscanf           0x4               E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_main.o)
+rx_state            0x1               ./example/nema_pro.o
+hexVals             0x4               ./custom/src/declaration.o
+g_comingCall        0x124             ./ril/src/ril_telephony.o
+cnt                 0x4               ./custom/src/declaration.o
+primary_port        0xa               ./custom/src/declaration.o
+Fota_gprsCfg        0xb0              ./custom/fota/src/fota_main.o
+position            0x4               ./custom/src/file_system.o
+strAT               0x32              ./custom/src/declaration.o
+SET_TOT_BUFF        0xa               ./custom/src/declaration.o
+operator_code       0x3c              ./custom/src/declaration.o
+filehandle          0x4               ./custom/src/MODBUS.o
+MQTT_SUB_FAIL       0x1               ./custom/src/mqtt.o
+history_send_Data   0x12c             ./custom/src/declaration.o
+Admin_no            0x14              ./custom/src/declaration.o
+writeedlen          0x4               ./custom/src/file_system.o
+ip_addr             0x5               ./custom/src/declaration.o
+fmeter_data         0xc8              ./custom/src/declaration.o
+FOTA_Buffer         0x200             ./custom/src/declaration.o
+filesize            0x4               ./custom/src/file_system.o
+strImsi             0x1e              ./custom/src/declaration.o
+port1               0x4               ./custom/src/declaration.o
+FotaConfig          0x10              ./custom/fota/src/fota_main.o
+FOTA_DBGBuffer      0x200             ./custom/fota/src/fota_main.o
+TOT2                0x4               ./custom/src/declaration.o
+DATE                0xf               ./custom/src/declaration.o
+Imei_No             0x1e              ./custom/src/declaration.o
+readedlen           0x4               ./custom/src/file_system.o
+id_que              0x600             ./example/nema_pro.o
+TOT1                0x4               ./custom/src/declaration.o
+strmsg              0xaa              ./custom/src/declaration.o
+Number              0x14              ./custom/src/declaration.o
+MQTT_PUBLISH_FAIL   0x1               ./custom/src/mqtt.o
+Imsi_No             0x1e              ./custom/src/declaration.o
+APN                 0x23              ./custom/src/declaration.o
+u4PktInQueue        0x4               ./example/nema_pro.o
+m_RxBuf_Uart_RS     0x800             ./custom/src/main.o
+config_array        0x5               ./custom/src/declaration.o
+interval            0xa               ./custom/src/declaration.o
+cmd_buf             0x64              ./custom/src/declaration.o
+strImei             0x1e              ./custom/src/declaration.o
+password_str        0xa               ./custom/src/declaration.o
+pdpCntxtId          0x4               ./custom/src/declaration.o
+id_que_tail         0x2               ./example/nema_pro.o
+sms_str             0xa0              ./custom/src/declaration.o
+rssi                0x4               ./custom/src/declaration.o
+comma_cnt           0x4               ./custom/src/declaration.o
+sms_flag            0x1               ./custom/src/declaration.o
+id_que_head         0x2               ./example/nema_pro.o
+m_RxBuf_Uart2       0x32              ./custom/src/MODBUS.o
+store_imsi          0x1e              ./custom/src/declaration.o
+NO_OF_HW            0xa               ./custom/src/declaration.o
+httpMainContext     0x234             ./custom/fota/src/fota_http.o
+rx_que              0x8000            ./example/nema_pro.o
+numero              0x4               ./custom/src/MODBUS.o
+gsm_signal          0x4               ./custom/src/declaration.o
+rd_buf              0x100             ./example/nema_pro.o
+unit                0x4               ./custom/src/declaration.o
+ret                 0x4               ./custom/src/declaration.o
+rx_que_head         0x2               ./example/nema_pro.o
+RTOT1               0x4               ./custom/src/declaration.o
+operator_len        0x4               ./custom/src/declaration.o
+MQTT_CONNECT_FAIL   0x1               ./custom/src/mqtt.o
+u4SyncPkt           0x4               ./example/nema_pro.o
+RTOT2               0x4               ./custom/src/declaration.o
+config_command      0x4               ./custom/src/declaration.o
+PhNum               0x14              ./custom/src/declaration.o
+m_SocketRcvBuf      0x5b4             ./custom/src/declaration.o
+
+Discarded input sections
+
+ .text          0x00000000      0x534 ./ril/src/ril_alarm.o
+ .data          0x00000000        0x0 ./ril/src/ril_alarm.o
+ .bss           0x00000000        0x0 ./ril/src/ril_alarm.o
+ .rodata        0x00000000       0x50 ./ril/src/ril_alarm.o
+ .rodata.str1.4
+                0x00000000       0x90 ./ril/src/ril_alarm.o
+ .comment       0x00000000       0x31 ./ril/src/ril_alarm.o
+ .ARM.attributes
+                0x00000000       0x2b ./ril/src/ril_alarm.o
+ .data          0x00000000        0x0 ./ril/src/ril_atResponse.o
+ .text          0x00000000      0xae4 ./ril/src/ril_audio.o
+ .data          0x00000000        0x1 ./ril/src/ril_audio.o
+ .rodata.str1.4
+                0x00000000      0x198 ./ril/src/ril_audio.o
+ .data          0x00000000        0x0 ./ril/src/ril_custom.o
+ .data          0x00000000        0x0 ./ril/src/ril_dtmf.o
+ .text          0x00000000     0x1018 ./ril/src/ril_ftp.o
+ .data          0x00000000        0x0 ./ril/src/ril_ftp.o
+ .bss           0x00000000        0x0 ./ril/src/ril_ftp.o
+ .rodata.str1.4
+                0x00000000      0x2d0 ./ril/src/ril_ftp.o
+ .comment       0x00000000       0x31 ./ril/src/ril_ftp.o
+ .ARM.attributes
+                0x00000000       0x2b ./ril/src/ril_ftp.o
+ .text          0x00000000      0x494 ./ril/src/ril_http.o
+ .data          0x00000000        0x0 ./ril/src/ril_http.o
+ .rodata        0x00000000       0x68 ./ril/src/ril_http.o
+ .rodata.str1.4
+                0x00000000       0x34 ./ril/src/ril_http.o
+ .bss           0x00000000        0x0 ./ril/src/ril_init.o
+ .data          0x00000000        0x0 ./ril/src/ril_location.o
+ .data          0x00000000        0x0 ./ril/src/ril_network.o
+ .bss           0x00000000        0x0 ./ril/src/ril_network.o
+ .data          0x00000000        0x0 ./ril/src/ril_ntp.o
+ .data          0x00000000        0x0 ./ril/src/ril_sim.o
+ .bss           0x00000000        0x0 ./ril/src/ril_sim.o
+ .data          0x00000000        0x0 ./ril/src/ril_sms.o
+ .data          0x00000000        0x0 ./ril/src/ril_system.o
+ .text          0x00000000      0x2cc ./ril/src/ril_telephony.o
+ .data          0x00000000        0x0 ./ril/src/ril_telephony.o
+ .bss           0x00000000        0x0 ./ril/src/ril_telephony.o
+ .rodata.str1.4
+                0x00000000       0x48 ./ril/src/ril_telephony.o
+ .data          0x00000000        0x0 ./ril/src/ril_urc.o
+ .data          0x00000000        0x0 ./ril/src/ril_util.o
+ .bss           0x00000000        0x0 ./ril/src/ril_util.o
+ .text          0x00000000        0x0 ./example/Example_gps_iic.o
+ .data          0x00000000        0x0 ./example/Example_gps_iic.o
+ .bss           0x00000000        0x0 ./example/Example_gps_iic.o
+ .comment       0x00000000       0x31 ./example/Example_gps_iic.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/Example_gps_iic.o
+ .text          0x00000000        0x0 ./example/example_adc.o
+ .data          0x00000000        0x0 ./example/example_adc.o
+ .bss           0x00000000        0x0 ./example/example_adc.o
+ .comment       0x00000000       0x31 ./example/example_adc.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_adc.o
+ .text          0x00000000        0x0 ./example/example_alarm.o
+ .data          0x00000000        0x0 ./example/example_alarm.o
+ .bss           0x00000000        0x0 ./example/example_alarm.o
+ .comment       0x00000000       0x31 ./example/example_alarm.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_alarm.o
+ .text          0x00000000        0x0 ./example/example_audio.o
+ .data          0x00000000        0x0 ./example/example_audio.o
+ .bss           0x00000000        0x0 ./example/example_audio.o
+ .comment       0x00000000       0x31 ./example/example_audio.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_audio.o
+ .text          0x00000000        0x0 ./example/example_bluetooth.o
+ .data          0x00000000        0x0 ./example/example_bluetooth.o
+ .bss           0x00000000        0x0 ./example/example_bluetooth.o
+ .comment       0x00000000       0x31 ./example/example_bluetooth.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_bluetooth.o
+ .text          0x00000000        0x0 ./example/example_call.o
+ .data          0x00000000        0x0 ./example/example_call.o
+ .bss           0x00000000        0x0 ./example/example_call.o
+ .comment       0x00000000       0x31 ./example/example_call.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_call.o
+ .text          0x00000000        0x0 ./example/example_clk.o
+ .data          0x00000000        0x0 ./example/example_clk.o
+ .bss           0x00000000        0x0 ./example/example_clk.o
+ .comment       0x00000000       0x31 ./example/example_clk.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_clk.o
+ .text          0x00000000        0x0 ./example/example_csd.o
+ .data          0x00000000        0x0 ./example/example_csd.o
+ .bss           0x00000000        0x0 ./example/example_csd.o
+ .comment       0x00000000       0x31 ./example/example_csd.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_csd.o
+ .text          0x00000000        0x0 ./example/example_download_epo.o
+ .data          0x00000000        0x0 ./example/example_download_epo.o
+ .bss           0x00000000        0x0 ./example/example_download_epo.o
+ .comment       0x00000000       0x31 ./example/example_download_epo.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_download_epo.o
+ .text          0x00000000        0x0 ./example/example_dtmf.o
+ .data          0x00000000        0x0 ./example/example_dtmf.o
+ .bss           0x00000000        0x0 ./example/example_dtmf.o
+ .comment       0x00000000       0x31 ./example/example_dtmf.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_dtmf.o
+ .text          0x00000000        0x0 ./example/example_eint.o
+ .data          0x00000000        0x0 ./example/example_eint.o
+ .bss           0x00000000        0x0 ./example/example_eint.o
+ .comment       0x00000000       0x31 ./example/example_eint.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_eint.o
+ .text          0x00000000        0x0 ./example/example_file.o
+ .data          0x00000000        0x0 ./example/example_file.o
+ .bss           0x00000000        0x0 ./example/example_file.o
+ .comment       0x00000000       0x31 ./example/example_file.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_file.o
+ .text          0x00000000        0x0 ./example/example_float_math.o
+ .data          0x00000000        0x0 ./example/example_float_math.o
+ .bss           0x00000000        0x0 ./example/example_float_math.o
+ .comment       0x00000000       0x31 ./example/example_float_math.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_float_math.o
+ .text          0x00000000        0x0 ./example/example_fota_ftp.o
+ .data          0x00000000        0x0 ./example/example_fota_ftp.o
+ .bss           0x00000000        0x0 ./example/example_fota_ftp.o
+ .comment       0x00000000       0x31 ./example/example_fota_ftp.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_fota_ftp.o
+ .text          0x00000000        0x0 ./example/example_fota_http.o
+ .data          0x00000000        0x0 ./example/example_fota_http.o
+ .bss           0x00000000        0x0 ./example/example_fota_http.o
+ .comment       0x00000000       0x31 ./example/example_fota_http.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_fota_http.o
+ .text          0x00000000        0x0 ./example/example_ftp.o
+ .data          0x00000000        0x0 ./example/example_ftp.o
+ .bss           0x00000000        0x0 ./example/example_ftp.o
+ .comment       0x00000000       0x31 ./example/example_ftp.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_ftp.o
+ .text          0x00000000        0x0 ./example/example_gpio.o
+ .data          0x00000000        0x0 ./example/example_gpio.o
+ .bss           0x00000000        0x0 ./example/example_gpio.o
+ .comment       0x00000000       0x31 ./example/example_gpio.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_gpio.o
+ .text          0x00000000        0x0 ./example/example_http.o
+ .data          0x00000000        0x0 ./example/example_http.o
+ .bss           0x00000000        0x0 ./example/example_http.o
+ .comment       0x00000000       0x31 ./example/example_http.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_http.o
+ .text          0x00000000        0x0 ./example/example_iic.o
+ .data          0x00000000        0x0 ./example/example_iic.o
+ .bss           0x00000000        0x0 ./example/example_iic.o
+ .comment       0x00000000       0x31 ./example/example_iic.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_iic.o
+ .text          0x00000000        0x0 ./example/example_location.o
+ .data          0x00000000        0x0 ./example/example_location.o
+ .bss           0x00000000        0x0 ./example/example_location.o
+ .comment       0x00000000       0x31 ./example/example_location.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_location.o
+ .text          0x00000000        0x0 ./example/example_memory.o
+ .data          0x00000000        0x0 ./example/example_memory.o
+ .bss           0x00000000        0x0 ./example/example_memory.o
+ .comment       0x00000000       0x31 ./example/example_memory.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_memory.o
+ .text          0x00000000        0x0 ./example/example_multitask.o
+ .data          0x00000000        0x0 ./example/example_multitask.o
+ .bss           0x00000000        0x0 ./example/example_multitask.o
+ .comment       0x00000000       0x31 ./example/example_multitask.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_multitask.o
+ .text          0x00000000        0x0 ./example/example_multitask_port.o
+ .data          0x00000000        0x0 ./example/example_multitask_port.o
+ .bss           0x00000000        0x0 ./example/example_multitask_port.o
+ .comment       0x00000000       0x31 ./example/example_multitask_port.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_multitask_port.o
+ .text          0x00000000        0x0 ./example/example_pwm.o
+ .data          0x00000000        0x0 ./example/example_pwm.o
+ .bss           0x00000000        0x0 ./example/example_pwm.o
+ .comment       0x00000000       0x31 ./example/example_pwm.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_pwm.o
+ .text          0x00000000        0x0 ./example/example_sms.o
+ .data          0x00000000        0x0 ./example/example_sms.o
+ .bss           0x00000000        0x0 ./example/example_sms.o
+ .comment       0x00000000       0x31 ./example/example_sms.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_sms.o
+ .text          0x00000000        0x0 ./example/example_spi.o
+ .data          0x00000000        0x0 ./example/example_spi.o
+ .bss           0x00000000        0x0 ./example/example_spi.o
+ .comment       0x00000000       0x31 ./example/example_spi.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_spi.o
+ .text          0x00000000        0x0 ./example/example_system.o
+ .data          0x00000000        0x0 ./example/example_system.o
+ .bss           0x00000000        0x0 ./example/example_system.o
+ .comment       0x00000000       0x31 ./example/example_system.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_system.o
+ .text          0x00000000        0x0 ./example/example_tcp_demo.o
+ .data          0x00000000        0x0 ./example/example_tcp_demo.o
+ .bss           0x00000000        0x0 ./example/example_tcp_demo.o
+ .comment       0x00000000       0x31 ./example/example_tcp_demo.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_tcp_demo.o
+ .text          0x00000000        0x0 ./example/example_tcpclient.o
+ .data          0x00000000        0x0 ./example/example_tcpclient.o
+ .bss           0x00000000        0x0 ./example/example_tcpclient.o
+ .comment       0x00000000       0x31 ./example/example_tcpclient.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_tcpclient.o
+ .text          0x00000000        0x0 ./example/example_tcpserver.o
+ .data          0x00000000        0x0 ./example/example_tcpserver.o
+ .bss           0x00000000        0x0 ./example/example_tcpserver.o
+ .comment       0x00000000       0x31 ./example/example_tcpserver.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_tcpserver.o
+ .text          0x00000000        0x0 ./example/example_time.o
+ .data          0x00000000        0x0 ./example/example_time.o
+ .bss           0x00000000        0x0 ./example/example_time.o
+ .comment       0x00000000       0x31 ./example/example_time.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_time.o
+ .text          0x00000000        0x0 ./example/example_timer.o
+ .data          0x00000000        0x0 ./example/example_timer.o
+ .bss           0x00000000        0x0 ./example/example_timer.o
+ .comment       0x00000000       0x31 ./example/example_timer.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_timer.o
+ .text          0x00000000        0x0 ./example/example_transpass.o
+ .data          0x00000000        0x0 ./example/example_transpass.o
+ .bss           0x00000000        0x0 ./example/example_transpass.o
+ .comment       0x00000000       0x31 ./example/example_transpass.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_transpass.o
+ .text          0x00000000        0x0 ./example/example_udpclient.o
+ .data          0x00000000        0x0 ./example/example_udpclient.o
+ .bss           0x00000000        0x0 ./example/example_udpclient.o
+ .comment       0x00000000       0x31 ./example/example_udpclient.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_udpclient.o
+ .text          0x00000000        0x0 ./example/example_udpserver.o
+ .data          0x00000000        0x0 ./example/example_udpserver.o
+ .bss           0x00000000        0x0 ./example/example_udpserver.o
+ .comment       0x00000000       0x31 ./example/example_udpserver.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_udpserver.o
+ .text          0x00000000        0x0 ./example/example_watchdog.o
+ .data          0x00000000        0x0 ./example/example_watchdog.o
+ .bss           0x00000000        0x0 ./example/example_watchdog.o
+ .comment       0x00000000       0x31 ./example/example_watchdog.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_watchdog.o
+ .text          0x00000000      0xa08 ./example/nema_pro.o
+ .data          0x00000000        0x0 ./example/nema_pro.o
+ .bss           0x00000000      0xa08 ./example/nema_pro.o
+ .rodata.str1.4
+                0x00000000      0x1ac ./example/nema_pro.o
+ .comment       0x00000000       0x31 ./example/nema_pro.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/nema_pro.o
+ COMMON         0x00000000     0x8718 ./example/nema_pro.o
+ .text          0x00000000      0x188 ./example/utility.o
+ .data          0x00000000        0x0 ./example/utility.o
+ .bss           0x00000000        0x0 ./example/utility.o
+ .rodata.str1.4
+                0x00000000       0x10 ./example/utility.o
+ .comment       0x00000000       0x31 ./example/utility.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/utility.o
+ .data          0x00000000        0x0 ./custom/src/MODBUS.o
+ .text          0x00000000        0x0 ./custom/src/declaration.o
+ .data          0x00000000        0x0 ./custom/src/file_system.o
+ .data          0x00000000        0x0 ./custom/src/function.o
+ .data          0x00000000        0x0 ./custom/src/memory.o
+ .data          0x00000000        0x0 ./custom/src/mqtt.o
+ .data          0x00000000        0x0 ./custom/src/sms.o
+ .data          0x00000000        0x0 ./custom/src/watchdog_task.o
+ .text          0x00000000        0x0 ./custom/fota/src/fota_ftp.o
+ .data          0x00000000        0x0 ./custom/fota/src/fota_ftp.o
+ .bss           0x00000000        0x0 ./custom/fota/src/fota_ftp.o
+ .comment       0x00000000       0x31 ./custom/fota/src/fota_ftp.o
+ .ARM.attributes
+                0x00000000       0x2b ./custom/fota/src/fota_ftp.o
+ .bss           0x00000000        0x0 ./custom/fota/src/fota_http.o
+ .data          0x00000000        0x0 ./custom/config/custom_sys_cfg.o
+ .bss           0x00000000        0x0 ./custom/config/custom_sys_cfg.o
+ .text          0x00000000        0x0 ./custom/config/sys_config.o
+ .data          0x00000000        0x0 ./custom/config/sys_config.o
+ .bss           0x00000000        0x0 ./custom/config/sys_config.o
+ .text          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+ .data          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_OpenRAMFile
+                0x00000000       0x70 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_GetFilePosition
+                0x00000000       0x60 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_Truncate
+                0x00000000       0x60 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_Flush
+                0x00000000       0x54 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_GetSize
+                0x00000000       0x60 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_Delete
+                0x00000000       0x60 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_Check
+                0x00000000       0x60 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_Rename
+                0x00000000       0x68 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_CreateDir
+                0x00000000       0x60 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_DeleteDir
+                0x00000000       0x60 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_CheckDir
+                0x00000000       0x60 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_FindFirst
+                0x00000000       0x80 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_FindNext
+                0x00000000       0x80 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_FindClose
+                0x00000000       0x54 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_XDelete
+                0x00000000       0x68 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_XMove
+                0x00000000       0x70 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_GetFreeSpace
+                0x00000000       0x74 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_GetTotalSpace
+                0x00000000       0x74 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_Format
+                0x00000000       0x60 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+ .text          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fota.o)
+ .data          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fota.o)
+ .text.Ql_FOTA_ReadData
+                0x00000000       0x70 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fota.o)
+ .text          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gpio.o)
+ .data          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gpio.o)
+ .text.Ql_GPIO_SetDirection
+                0x00000000       0x68 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gpio.o)
+ .text.Ql_GPIO_GetDirection
+                0x00000000       0x60 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gpio.o)
+ .text.Ql_GPIO_SetPullSelection
+                0x00000000       0x68 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gpio.o)
+ .text.Ql_GPIO_GetPullSelection
+                0x00000000       0x60 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gpio.o)
+ .text.Ql_GPIO_Uninit
+                0x00000000       0x60 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gpio.o)
+ .text          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gprs.o)
+ .data          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gprs.o)
+ .text.Ql_GPRS_Activate
+                0x00000000       0x60 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gprs.o)
+ .text.Ql_GPRS_Deactivate
+                0x00000000       0x60 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gprs.o)
+ .text.Ql_GPRS_DeactivateEx
+                0x00000000       0x68 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gprs.o)
+ .text.Ql_GPRS_GetDNSAddress
+                0x00000000       0x70 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gprs.o)
+ .text.Ql_GPRS_SetDNSAddress
+                0x00000000       0x70 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gprs.o)
+ .text          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(iic.o)
+ .data          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(iic.o)
+ .bss           0x00000000       0x18 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(iic.o)
+ .text.Ql_IIC_Init
+                0x00000000       0x78 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(iic.o)
+ .text.Ql_IIC_Config
+                0x00000000       0x78 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(iic.o)
+ .text.Ql_IIC_Write
+                0x00000000       0x78 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(iic.o)
+ .text.Ql_IIC_Read
+                0x00000000       0x78 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(iic.o)
+ .text.Ql_IIC_Write_Read
+                0x00000000       0x88 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(iic.o)
+ .text.Ql_IIC_Uninit
+                0x00000000       0x60 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(iic.o)
+ .rodata.str1.1
+                0x00000000       0x53 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(iic.o)
+ .comment       0x00000000       0x31 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(iic.o)
+ .ARM.attributes
+                0x00000000       0x2b E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(iic.o)
+ .text          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .data          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .bss           0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(memory.o)
+ .data          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(memory.o)
+ .text          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_func.o)
+ .text.Ql_StartPlayAudioStream
+                0x00000000       0x7c E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_func.o)
+ .text.Ql_StopPlayAudioStream
+                0x00000000       0x4c E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_func.o)
+ .text.Ql_GetRelativeTime_Counter
+                0x00000000       0x40 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_func.o)
+ .text.Ql_SecondToTicks
+                0x00000000       0x48 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_func.o)
+ .text.Ql_MillisecondToTicks
+                0x00000000       0x48 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_func.o)
+ .text.Ql_CalendarTime2LocalTime
+                0x00000000       0x58 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_func.o)
+ .text.Ql_osChangeTaskPriority
+                0x00000000       0x50 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_func.o)
+ .rodata.str1.1
+                0x00000000       0xa3 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_func.o)
+ .text          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_main.o)
+ .data          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_main.o)
+ .text          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ril_aux.o)
+ .text          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ril_main.o)
+ .text.get_ril_init_status
+                0x00000000       0x10 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ril_main.o)
+ .text          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(socket.o)
+ .data          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_Create
+                0x00000000       0x64 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_Connect
+                0x00000000       0x70 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_GetAckNumber
+                0x00000000       0x68 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_SendTo
+                0x00000000       0x80 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_RecvFrom
+                0x00000000       0x80 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_Bind
+                0x00000000       0x68 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_Listen
+                0x00000000       0x68 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_Accept
+                0x00000000       0x6c E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_IpHelper_GetIPByHostNameEx
+                0x00000000       0x80 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_SetOption
+                0x00000000       0x70 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_SSL_InjectCertification
+                0x00000000       0x68 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(socket.o)
+ .text          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(stdlib_func.o)
+ .data          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_create_api_hash
+                0x00000000       0x28 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_ui64toa
+                0x00000000       0xac E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_itoa  0x00000000       0x9c E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_strcat
+                0x00000000       0x80 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_strncat
+                0x00000000       0x88 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_memmove
+                0x00000000       0x88 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_strchr
+                0x00000000       0x80 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_isdigit
+                0x00000000       0x14 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(system.o)
+ .data          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(system.o)
+ .text.Ql_GetUID
+                0x00000000       0x68 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(system.o)
+ .text.Ql_GetMsSincePwrOn
+                0x00000000       0x84 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(system.o)
+ .text.Ql_GetCoreVer
+                0x00000000       0x6c E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(system.o)
+ .text          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(taskMngt.o)
+ .data          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_OS_CreateSemaphore
+                0x00000000       0x5c E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_OS_TakeSemaphore
+                0x00000000       0x5c E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_OS_GiveSemaphore
+                0x00000000       0x54 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_SetLastErrorCode
+                0x00000000       0x60 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_GetLastErrorCode
+                0x00000000       0x58 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_OS_GetCurrentTaskPriority
+                0x00000000       0x4c E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_OS_GetCurrenTaskLeftStackSize
+                0x00000000       0x4c E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_GetExceptionRecords
+                0x00000000       0x64 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(taskMngt.o)
+ .text          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(timer.o)
+ .data          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(timer.o)
+ .text.Ql_Timer_RegisterFast
+                0x00000000       0x70 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(timer.o)
+ .text          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(uart.o)
+ .data          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_OpenEx
+                0x00000000       0x68 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_RX_Enable
+                0x00000000       0x5c E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_RX_Disable
+                0x00000000       0x5c E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_SetDCBConfig
+                0x00000000       0x68 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_GetDCBConfig
+                0x00000000       0x68 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_ClrRxBuffer
+                0x00000000       0x54 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_ClrTxBuffer
+                0x00000000       0x54 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_GetOption
+                0x00000000       0x70 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_SetOption
+                0x00000000       0x70 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_SetPinStatus
+                0x00000000       0x70 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_Close
+                0x00000000       0x54 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(uart.o)
+ .text          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(watchdog.o)
+ .data          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(watchdog.o)
+ .text.OCPU_WTD_GetInitState
+                0x00000000       0x10 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(watchdog.o)
+ .text.OCPU_WTD_StartExtWatchdog_WithGPTimer
+                0x00000000       0x4c E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(watchdog.o)
+ .text.OCPU_WTD_StopExtWatchdog_WithGPTimer
+                0x00000000       0x18 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(watchdog.o)
+ .text.OCPU_WTD_StartExtWatchdog_WithStackTimer
+                0x00000000       0x48 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(watchdog.o)
+ .text.OCPU_WTD_StopExtWatchdog_WithStackTimer
+                0x00000000       0x38 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(watchdog.o)
+ .text.Ql_WTD_Stop
+                0x00000000       0x88 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(watchdog.o)
+ .data          0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ocpu_init.o)
+ .bss           0x00000000        0x0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ocpu_init.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memcpy.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strlen.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixdfsi.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_truncdfsf2.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_addsubsf3.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_addsubsf3.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_muldivsf3.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_muldivsf3.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_cmpsf2.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_cmpsf2.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixsfsi.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixsfsi.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixunssfsi.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixunssfsi.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ROM              0x102c7040         0x0005a000         xr
+RAM              0xf03d2000         0x00019000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./ril/src/ril_alarm.o
+LOAD ./ril/src/ril_atResponse.o
+LOAD ./ril/src/ril_audio.o
+LOAD ./ril/src/ril_bluetooth.o
+LOAD ./ril/src/ril_custom.o
+LOAD ./ril/src/ril_dtmf.o
+LOAD ./ril/src/ril_ftp.o
+LOAD ./ril/src/ril_http.o
+LOAD ./ril/src/ril_init.o
+LOAD ./ril/src/ril_location.o
+LOAD ./ril/src/ril_network.o
+LOAD ./ril/src/ril_ntp.o
+LOAD ./ril/src/ril_sim.o
+LOAD ./ril/src/ril_sms.o
+LOAD ./ril/src/ril_system.o
+LOAD ./ril/src/ril_telephony.o
+LOAD ./ril/src/ril_urc.o
+LOAD ./ril/src/ril_util.o
+LOAD ./example/Example_gps_iic.o
+LOAD ./example/example_adc.o
+LOAD ./example/example_alarm.o
+LOAD ./example/example_audio.o
+LOAD ./example/example_bluetooth.o
+LOAD ./example/example_call.o
+LOAD ./example/example_clk.o
+LOAD ./example/example_csd.o
+LOAD ./example/example_download_epo.o
+LOAD ./example/example_dtmf.o
+LOAD ./example/example_eint.o
+LOAD ./example/example_file.o
+LOAD ./example/example_float_math.o
+LOAD ./example/example_fota_ftp.o
+LOAD ./example/example_fota_http.o
+LOAD ./example/example_ftp.o
+LOAD ./example/example_gpio.o
+LOAD ./example/example_http.o
+LOAD ./example/example_iic.o
+LOAD ./example/example_location.o
+LOAD ./example/example_memory.o
+LOAD ./example/example_multitask.o
+LOAD ./example/example_multitask_port.o
+LOAD ./example/example_pwm.o
+LOAD ./example/example_sms.o
+LOAD ./example/example_spi.o
+LOAD ./example/example_system.o
+LOAD ./example/example_tcp_demo.o
+LOAD ./example/example_tcpclient.o
+LOAD ./example/example_tcpserver.o
+LOAD ./example/example_time.o
+LOAD ./example/example_timer.o
+LOAD ./example/example_transpass.o
+LOAD ./example/example_udpclient.o
+LOAD ./example/example_udpserver.o
+LOAD ./example/example_watchdog.o
+LOAD ./example/nema_pro.o
+LOAD ./example/utility.o
+LOAD ./custom/src/MODBUS.o
+LOAD ./custom/src/declaration.o
+LOAD ./custom/src/file_system.o
+LOAD ./custom/src/function.o
+LOAD ./custom/src/main.o
+LOAD ./custom/src/memory.o
+LOAD ./custom/src/mqtt.o
+LOAD ./custom/src/sms.o
+LOAD ./custom/src/watchdog_task.o
+LOAD ./custom/fota/src/fota_ftp.o
+LOAD ./custom/fota/src/fota_http.o
+LOAD ./custom/fota/src/fota_http_code.o
+LOAD ./custom/fota/src/fota_main.o
+LOAD ./custom/config/custom_sys_cfg.o
+LOAD ./custom/config/sys_config.o
+LOAD E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a
+LOAD C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libm.a
+LOAD C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a
+LOAD C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libcs3.a
+LOAD C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a
+START GROUP
+LOAD C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a
+LOAD C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a
+END GROUP
+                0x102c7040                . = 0x102c7040
+
+.initdata       0x102c7040       0x2c
+ *(.initdata)
+ .initdata      0x102c7040       0x2c E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_main.o)
+                0x102c7040                GADLENTRY
+
+text            0x102c7070    0x1a548
+ *(.text)
+ .text          0x102c7070       0xfc ./ril/src/ril_atResponse.o
+                0x102c7070                Ql_RIL_AT_GetErrCode
+                0x102c7080                Ql_RIL_AT_SetErrCode
+                0x102c7094                Default_atRsp_callback
+ .text          0x102c716c     0x3080 ./ril/src/ril_bluetooth.o
+                0x102c7cf8                BT_DevMngmt_GetDeviceId
+                0x102c7d40                BT_DevMngmt_GetPairedId
+                0x102c7d88                BT_DevMngmt_GetConnId
+                0x102c7dd0                BT_DevMngmt_GetProfileId
+                0x102c7e18                BT_DevMngmt_GetDevName
+                0x102c7e60                BT_DevMngmt_GetDevAddr
+                0x102c7ea8                RIL_BT_Switch
+                0x102c7f30                RIL_BT_GetPwrState
+                0x102c7fa0                RIL_BT_SetName
+                0x102c803c                RIL_BT_GetName
+                0x102c8178                RIL_BT_GetLocalAddr
+                0x102c8270                RIL_BT_SetVisble
+                0x102c8324                OnURCHandler_BTVisible
+                0x102c8418                RIL_BT_GetVisble
+                0x102c848c                OnURCHandler_BTScan
+                0x102c8750                RIL_BT_GetDevListInfo
+                0x102c87c8                RIL_BT_GetDevListPointer
+                0x102c87d4                RIL_BT_StopScan
+                0x102c882c                RIL_BT_QueryState
+                0x102c8890                RIL_BT_StartScan
+                0x102c8950                RIL_BT_Initialize
+                0x102c8984                RIL_BT_PairReq
+                0x102c8a2c                OnURCHandler_BTPair
+                0x102c8c38                RIL_BT_PairConfirm
+                0x102c8cec                OnURCHandler_BTPairCnf
+                0x102c8f28                RIL_BT_Unpair
+                0x102c908c                RIL_BT_GetSupportedProfile
+                0x102c91c8                RIL_BT_ConnReq
+                0x102c9290                OnURCHandler_BTConn
+                0x102c9524                RIL_BT_SPP_DirectConn
+                0x102c95ac                RIL_BT_ConnAccept
+                0x102c9634                OnURCHandler_BTConnCnf
+                0x102c9988                RIL_BT_Disconnect
+                0x102c9a38                OnURCHandler_BTDisconn
+                0x102c9c60                RIL_BT_SPP_Send
+                0x102c9d38                RIL_BT_SPP_Read
+                0x102c9e14                OnURCHandler_BTIndication
+ .text          0x102ca1ec       0x20 ./ril/src/ril_custom.o
+                0x102ca1ec                Ql_RIL_RcvDataFrmCore
+ .text          0x102ca20c      0x5b8 ./ril/src/ril_dtmf.o
+                0x102ca308                RIL_ToneDet_Open
+                0x102ca38c                RIL_ToneDet_Close
+                0x102ca404                RIL_ToneDet_Set
+                0x102ca4b0                RIL_ToneDet_Get
+                0x102ca570                OnURCHandler_QToneDet
+                0x102ca664                RIL_WDTMF_Send
+                0x102ca720                OnURCHandler_QWDTMF
+ .text          0x102ca7c4       0x10 ./ril/src/ril_init.o
+                0x102ca7c4                RIL_GetInitCmdCnt
+                0x102ca7cc                RIL_GetLimitedCmdCnt
+ .text          0x102ca7d4      0x534 ./ril/src/ril_location.o
+                0x102ca904                RIL_GetLocation
+                0x102ca9d8                RIL_GetLocation_Ex
+                0x102caac0                RIL_GetLocationByCell
+                0x102cabb0                OnURCHandler_QCELLLocation
+ .text          0x102cad08      0xb70 ./ril/src/ril_network.o
+                0x102cb0e8                RIL_NW_GetGSMState
+                0x102cb15c                RIL_NW_GetGPRSState
+                0x102cb1d8                RIL_NW_GetSignalQuality
+                0x102cb268                RIL_NW_SetGPRSContext
+                0x102cb2e4                RIL_NW_SetAPN
+                0x102cb3f4                RIL_NW_GetIpStatusByName
+                0x102cb6a4                RIL_NW_GetIPStatus
+                0x102cb6ec                RIL_NW_OpenPDPContext
+                0x102cb79c                RIL_NW_ClosePDPContext
+                0x102cb804                RIL_NW_GetOperator
+ .text          0x102cb878      0x10c ./ril/src/ril_ntp.o
+                0x102cb878                OnURCHandler_NTPCMD
+                0x102cb8e4                RIL_NTP_START
+ .text          0x102cb984      0x5a4 ./ril/src/ril_sim.o
+                0x102cbae4                RIL_SIM_GetSimStateByName
+                0x102cbdcc                RIL_SIM_GetSimState
+                0x102cbe40                RIL_SIM_GetIMSI
+                0x102cbeb4                RIL_SIM_GetCCID
+ .text          0x102cbf28     0x1730 ./ril/src/ril_sms.o
+                0x102cca08                RIL_SMS_GetStorage
+                0x102cca0c                RIL_SMS_SetStorage
+                0x102ccb20                RIL_SMS_ReadSMS_PDU
+                0x102ccbf8                RIL_SMS_ReadSMS_Text
+                0x102ccf14                RIL_SMS_SendSMS_PDU
+                0x102ccfcc                RIL_SMS_SendSMS_Text
+                0x102cd24c                RIL_SMS_SendSMS_Text_Ext
+                0x102cd548                RIL_SMS_DeleteSMS
+ .text          0x102cd658      0x90c ./ril/src/ril_system.o
+                0x102cdad8                RIL_QuerySysInitStatus
+                0x102cdb14                RIL_GetPowerSupply
+                0x102cdb6c                Ql_SecureData_Store
+                0x102cdcd0                Ql_SecureData_Read
+                0x102cdef4                RIL_GetIMEI
+ .text          0x102cdf64      0xa3c ./ril/src/ril_urc.o
+                0x102ce868                OnURCHandler
+                0x102ce920                Ql_RIL_IsURCStr
+ .text          0x102ce9a0      0x4a0 ./ril/src/ril_util.o
+                0x102ce9a0                Ql_StrPrefixMatch
+                0x102ce9f0                Ql_StrToUpper
+                0x102cea4c                Ql_HexStrToInt
+                0x102ceae0                Ql_RIL_FindString
+                0x102ceb6c                Ql_RIL_FindLine
+                0x102cedec                Ql_GenHash
+ .text          0x102cee40     0x12c0 ./custom/src/MODBUS.o
+                0x102cee40                ModRTU_CRC
+                0x102ceea0                MODBUS_DATA
+                0x102cf118                MODBUS_TOT_DATA_WRITE
+                0x102cf90c                MODBUS_RTOT_DATA_WRITE
+ .text          0x102d0100       0xc0 ./custom/src/file_system.o
+                0x102d0100                file_system_write
+                0x102d015c                file_system_read
+ .text          0x102d01c0     0x2420 ./custom/src/function.o
+                0x102d01c0                ATResponse_Handler
+                0x102d0258                time_delay
+                0x102d0288                time_delay_micro_sec
+                0x102d028c                RIL_LIST_OPERATOR
+                0x102d0588                SYNC_UPDATE
+                0x102d0634                DATE_TIME
+                0x102d08cc                GET_MODBUS_DATA
+                0x102d0984                write_fmeter_memory
+                0x102d09f4                read_fmeter_memory
+                0x102d0a28                READ_MEMORY
+                0x102d0b40                ATSwitch_Handler
+                0x102d0bb4                AT_MSG_Handler
+                0x102d0c20                ATRsp_COPS_Handler
+                0x102d0ce4                MAIN_UART_SOCKET_READ
+                0x102d0fd4                publish_history_data
+                0x102d1440                Callback_GPRS_Actived
+                0x102d1444                CallBack_GPRS_Deactived
+                0x102d1448                SLEAVE_SELECTION
+                0x102d1518                CONFIG_PACKET
+                0x102d15a4                compare
+                0x102d1630                value_ftohex_SET_TOT_1
+                0x102d165c                value_ftohex_SET_TOT_2
+                0x102d1688                value_ftohex_SET_RTOT_1
+                0x102d16b4                value_ftohex_SET_RTOT_2
+                0x102d16e0                TOT_DATA_SORT
+                0x102d1a4c                IOT_DATA_WRITE
+                0x102d1d6c                modbus_validity
+                0x102d25a0                APN_CHANGE
+ .text          0x102d25e0     0x41d4 ./custom/src/main.o
+                0x102d28a0                setState
+                0x102d2d8c                Callback_GetIpByName
+                0x102d2f54                proc_main_task
+ .text          0x102d67b4     0x3940 ./custom/src/memory.o
+                0x102d67b4                Write_SAddr_File
+                0x102d6894                Read_SAddr_File
+                0x102d6aa4                Write_EAddr_File
+                0x102d6b84                Read_EAddr_File
+                0x102d6d94                fmeter_data_File
+                0x102d6f14                Admin_Number_File
+                0x102d71d0                Number_File
+                0x102d7440                APN_File
+                0x102d7728                PORT_File
+                0x102d79e0                IP_DNS_File
+                0x102d7c9c                Password_File
+                0x102d7eec                INTERVAL_File
+                0x102d81b4                ERR_File
+                0x102d847c                SMS_File
+                0x102d86a4                Config_File
+                0x102d8980                Update_Parameter_File
+                0x102d8c48                Update_File
+                0x102d8f24                IMSI_File
+                0x102d9108                Manual_Mode_File
+                0x102d937c                TOT_num_of_fm_File
+                0x102d9644                APN_TOT_COUNT_File
+                0x102d986c                APN_RUN_COUNT_File
+                0x102d9a94                PRODUCT_File
+                0x102d9dec                SMS_CLEAR_File
+ .text          0x102da0f4     0x12d0 ./custom/src/mqtt.o
+                0x102da0f4                MQTTConnect
+                0x102da61c                MQTTSubscribe
+                0x102da8ac                MQTTPing
+                0x102da9e4                IOT_DATA
+                0x102dadfc                MQTTPublish
+ .text          0x102db3c4     0x1f2c ./custom/src/sms.o
+                0x102db3c4                SMS_Initialize
+                0x102db4f8                SMS_TextMode_Read
+                0x102db8dc                SMS_Delete
+                0x102db9d8                ADMIN_NO_SMS
+                0x102dbb08                PASS_SMS
+                0x102dbc34                APN_SMS
+                0x102dbe94                PORT_SMS
+                0x102dbfd0                SET_TOT_SMS
+                0x102dc2f0                IP_SMS
+                0x102dc42c                DNS_SMS
+                0x102dc568                INTERVAL_SMS
+                0x102dc6b4                NO_OF_HW_SMS
+                0x102dc800                NO_OF_HW_CONFIG
+                0x102dc94c                TIME_INTERVAL_CONFIG
+                0x102dca80                FOTA_SMS
+                0x102dcbf4                SMS_READ
+                0x102dcf70                SEND_SMS
+ .text          0x102dd2f0      0x578 ./custom/src/watchdog_task.o
+                0x102dd2f0                Callback_Timer
+                0x102dd798                proc_wdt_task
+                0x102dd840                setState_wdt
+                0x102dd864                Callback_Socket_Read
+ .text          0x102dd868     0x1e3c ./custom/fota/src/fota_http.o
+                0x102dd868                HttpCallBack_GPRS_Deactived
+                0x102dd86c                Httpcallback_socket_connect
+                0x102dd870                Httpcallback_socket_close
+                0x102dd874                Httpcallback_socket_accept
+                0x102dd878                Httpcallback_socket_write
+                0x102dd87c                http_TimerCallback
+                0x102dd948                HTTP_IsHttpServer
+                0x102dd9a0                http_initialize
+                0x102dda6c                http_SendHttpGetHead
+                0x102ddfa4                http_GetImagefilefromServer
+                0x102de1f8                Callback_GetIpByHostName
+                0x102de358                HTTP_FotaMain
+                0x102de8c4                http_RecvHttpChunkedBody
+                0x102de950                http_RecvHttpBody
+                0x102defb8                http_RecvHttpHead
+                0x102df4ec                Httpcallback_socket_read
+                0x102df6a0                HttpCallback_GPRS_Actived
+ .text          0x102df6a4      0x9c0 ./custom/fota/src/fota_http_code.o
+                0x102df6a4                quectel_stricmp_bylength
+                0x102df714                http_ip_check
+                0x102df768                http_DecodeURL
+                0x102dfbf8                find_linesymbol
+                0x102dfc78                http_DecodeHeader
+ .text          0x102e0064      0x440 ./custom/fota/src/fota_main.o
+                0x102e027c                Ql_FOTA_StartUpgrade
+                0x102e049c                Ql_FOTA_StopUpgrade
+ .text          0x102e04a4        0xc ./custom/config/custom_sys_cfg.o
+                0x102e04a4                Ql_WTD_GetWDIPinCfg
+ .text          0x102e04b0       0x4c E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ocpu_init.o)
+                0x102e04b0                _OCPU_InitUserMem
+ .text          0x102e04fc      0x10c C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memcpy.o)
+                0x102e04fc                memcpy
+ .text          0x102e0608       0x9c C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memset.o)
+                0x102e0608                memset
+ .text          0x102e06a4       0x10 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strlen.o)
+                0x102e06a4                strlen
+ .text          0x102e06b4      0x11c C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_udivsi3.o)
+                0x102e06b4                __aeabi_uidiv
+                0x102e06b4                __udivsi3
+                0x102e07b0                __aeabi_uidivmod
+ .text          0x102e07d0      0x150 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_divsi3.o)
+                0x102e07d0                __divsi3
+                0x102e07d0                __aeabi_idiv
+                0x102e0900                __aeabi_idivmod
+ .text          0x102e0920        0x4 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_dvmd_tls.o)
+                0x102e0920                __aeabi_idiv0
+                0x102e0920                __aeabi_ldiv0
+ .text          0x102e0924      0x41c C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_addsubdf3.o)
+                0x102e0924                __aeabi_drsub
+                0x102e092c                __aeabi_dsub
+                0x102e092c                __subdf3
+                0x102e0930                __aeabi_dadd
+                0x102e0930                __adddf3
+                0x102e0c40                __floatunsidf
+                0x102e0c40                __aeabi_ui2d
+                0x102e0c64                __floatsidf
+                0x102e0c64                __aeabi_i2d
+                0x102e0c8c                __aeabi_f2d
+                0x102e0c8c                __extendsfdf2
+                0x102e0ccc                __floatundidf
+                0x102e0ccc                __aeabi_ul2d
+                0x102e0ce0                __floatdidf
+                0x102e0ce0                __aeabi_l2d
+ .text          0x102e0d40       0x5c C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixdfsi.o)
+                0x102e0d40                __aeabi_d2iz
+                0x102e0d40                __fixdfsi
+ .text          0x102e0d9c       0xa0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_truncdfsf2.o)
+                0x102e0d9c                __truncdfsf2
+                0x102e0d9c                __aeabi_d2f
+ .text          0x102e0e3c      0x2ac C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_addsubsf3.o)
+                0x102e0e3c                __aeabi_frsub
+                0x102e0e44                __subsf3
+                0x102e0e44                __aeabi_fsub
+                0x102e0e48                __aeabi_fadd
+                0x102e0e48                __addsf3
+                0x102e1004                __aeabi_ui2f
+                0x102e1004                __floatunsisf
+                0x102e100c                __aeabi_i2f
+                0x102e100c                __floatsisf
+                0x102e102c                __aeabi_ul2f
+                0x102e102c                __floatundisf
+                0x102e103c                __aeabi_l2f
+                0x102e103c                __floatdisf
+ .text          0x102e10e8      0x2f8 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_muldivsf3.o)
+                0x102e10e8                __mulsf3
+                0x102e10e8                __aeabi_fmul
+                0x102e1280                __aeabi_fdiv
+                0x102e1280                __divsf3
+ .text          0x102e13e0      0x114 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_cmpsf2.o)
+                0x102e13e0                __gesf2
+                0x102e13e0                __gtsf2
+                0x102e13e8                __lesf2
+                0x102e13e8                __ltsf2
+                0x102e13f0                __nesf2
+                0x102e13f0                __eqsf2
+                0x102e13f0                __cmpsf2
+                0x102e1454                __aeabi_cfrcmple
+                0x102e1464                __aeabi_cfcmpeq
+                0x102e1464                __aeabi_cfcmple
+                0x102e147c                __aeabi_fcmpeq
+                0x102e1494                __aeabi_fcmplt
+                0x102e14ac                __aeabi_fcmple
+                0x102e14c4                __aeabi_fcmpge
+                0x102e14dc                __aeabi_fcmpgt
+ .text          0x102e14f4       0x5c C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixsfsi.o)
+                0x102e14f4                __aeabi_f2iz
+                0x102e14f4                __fixsfsi
+ .text          0x102e1550       0x54 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixunssfsi.o)
+                0x102e1550                __fixunssfsi
+                0x102e1550                __aeabi_f2uiz
+ *fill*         0x102e15a4        0x4 
+ .text.__stub   0x102e15a8        0xc linker stubs
+
+.glue_7         0x102e15b8        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x102e15b8        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x102e15b8        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x102e15b8        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x102e15b8        0x0
+ .iplt          0x00000000        0x0 ./ril/src/ril_alarm.o
+
+.text.Ql_FS_Open
+                0x102e15b8       0x68
+ .text.Ql_FS_Open
+                0x102e15b8       0x68 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+                0x102e15b8                Ql_FS_Open
+
+.text.Ql_FS_Read
+                0x102e1620       0x78
+ .text.Ql_FS_Read
+                0x102e1620       0x78 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+                0x102e1620                Ql_FS_Read
+
+.text.Ql_FS_Write
+                0x102e1698       0x78
+ .text.Ql_FS_Write
+                0x102e1698       0x78 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+                0x102e1698                Ql_FS_Write
+
+.text.Ql_FS_Seek
+                0x102e1710       0x70
+ .text.Ql_FS_Seek
+                0x102e1710       0x70 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+                0x102e1710                Ql_FS_Seek
+
+.text.Ql_FS_Close
+                0x102e1780       0x54
+ .text.Ql_FS_Close
+                0x102e1780       0x54 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+                0x102e1780                Ql_FS_Close
+
+.text.Ql_FOTA_Init
+                0x102e17d4       0x60
+ .text.Ql_FOTA_Init
+                0x102e17d4       0x60 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fota.o)
+                0x102e17d4                Ql_FOTA_Init
+
+.text.Ql_FOTA_WriteData
+                0x102e1834       0x68
+ .text.Ql_FOTA_WriteData
+                0x102e1834       0x68 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fota.o)
+                0x102e1834                Ql_FOTA_WriteData
+
+.text.Ql_FOTA_Finish
+                0x102e189c       0x58
+ .text.Ql_FOTA_Finish
+                0x102e189c       0x58 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fota.o)
+                0x102e189c                Ql_FOTA_Finish
+
+.text.Ql_FOTA_Update
+                0x102e18f4       0x58
+ .text.Ql_FOTA_Update
+                0x102e18f4       0x58 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fota.o)
+                0x102e18f4                Ql_FOTA_Update
+
+.text.Ql_GPIO_Init
+                0x102e194c       0x78
+ .text.Ql_GPIO_Init
+                0x102e194c       0x78 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gpio.o)
+                0x102e194c                Ql_GPIO_Init
+
+.text.Ql_GPIO_SetLevel
+                0x102e19c4       0x68
+ .text.Ql_GPIO_SetLevel
+                0x102e19c4       0x68 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gpio.o)
+                0x102e19c4                Ql_GPIO_SetLevel
+
+.text.Ql_GPIO_GetLevel
+                0x102e1a2c       0x60
+ .text.Ql_GPIO_GetLevel
+                0x102e1a2c       0x60 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gpio.o)
+                0x102e1a2c                Ql_GPIO_GetLevel
+
+.text.Ql_GPRS_GetPDPCntxtState
+                0x102e1a8c       0x60
+ .text.Ql_GPRS_GetPDPCntxtState
+                0x102e1a8c       0x60 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gprs.o)
+                0x102e1a8c                Ql_GPRS_GetPDPCntxtState
+
+.text.Ql_GPRS_GetPDPContextId
+                0x102e1aec       0x60
+ .text.Ql_GPRS_GetPDPContextId
+                0x102e1aec       0x60 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gprs.o)
+                0x102e1aec                Ql_GPRS_GetPDPContextId
+
+.text.Ql_GPRS_Config
+                0x102e1b4c       0x68
+ .text.Ql_GPRS_Config
+                0x102e1b4c       0x68 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gprs.o)
+                0x102e1b4c                Ql_GPRS_Config
+
+.text.Ql_GPRS_Register
+                0x102e1bb4       0x70
+ .text.Ql_GPRS_Register
+                0x102e1bb4       0x70 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gprs.o)
+                0x102e1bb4                Ql_GPRS_Register
+
+.text.Ql_GPRS_ActivateEx
+                0x102e1c24       0x68
+ .text.Ql_GPRS_ActivateEx
+                0x102e1c24       0x68 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gprs.o)
+                0x102e1c24                Ql_GPRS_ActivateEx
+
+.text.Ql_GPRS_GetLocalIPAddress
+                0x102e1c8c       0x68
+ .text.Ql_GPRS_GetLocalIPAddress
+                0x102e1c8c       0x68 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gprs.o)
+                0x102e1c8c                Ql_GPRS_GetLocalIPAddress
+
+.text.EncodeAddress
+                0x102e1cf4      0x228
+ .text.EncodeAddress
+                0x102e1cf4      0x228 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(lib_ril_sms.o)
+
+.text.DecodeUserDataHeader
+                0x102e1f1c       0xb8
+ .text.DecodeUserDataHeader
+                0x102e1f1c       0xb8 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(lib_ril_sms.o)
+
+.text.EncodeGSM7Bit.part.2
+                0x102e1fd4       0xd4
+ .text.EncodeGSM7Bit.part.2
+                0x102e1fd4       0xd4 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(lib_ril_sms.o)
+
+.text.DecodeGSM7Bit
+                0x102e20a8      0x148
+ .text.DecodeGSM7Bit
+                0x102e20a8      0x148 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(lib_ril_sms.o)
+
+.text.DecodeAddress
+                0x102e21f0      0x218
+ .text.DecodeAddress
+                0x102e21f0      0x218 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(lib_ril_sms.o)
+
+.text.DecordUserDataBody.part.5
+                0x102e2408      0x180
+ .text.DecordUserDataBody.part.5
+                0x102e2408      0x180 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(lib_ril_sms.o)
+
+.text.DecodeTimeStamp.constprop.8
+                0x102e2588       0xfc
+ .text.DecodeTimeStamp.constprop.8
+                0x102e2588       0xfc E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(lib_ril_sms.o)
+
+.text.LIB_SMS_IsValidHexStr
+                0x102e2684       0x54
+ .text.LIB_SMS_IsValidHexStr
+                0x102e2684       0x54 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(lib_ril_sms.o)
+                0x102e2684                LIB_SMS_IsValidHexStr
+
+.text.LIB_SMS_ConvHexOctToHexStr
+                0x102e26d8       0xa8
+ .text.LIB_SMS_ConvHexOctToHexStr
+                0x102e26d8       0xa8 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(lib_ril_sms.o)
+                0x102e26d8                LIB_SMS_ConvHexOctToHexStr
+
+.text.LIB_SMS_ConvHexStrToHexOct
+                0x102e2780       0xe8
+ .text.LIB_SMS_ConvHexStrToHexOct
+                0x102e2780       0xe8 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(lib_ril_sms.o)
+                0x102e2780                LIB_SMS_ConvHexStrToHexOct
+
+.text.LIB_SMS_DecodeDCS
+                0x102e2868      0x164
+ .text.LIB_SMS_DecodeDCS
+                0x102e2868      0x164 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(lib_ril_sms.o)
+                0x102e2868                LIB_SMS_DecodeDCS
+
+.text.LIB_SMS_ConvAlphaToCharSet
+                0x102e29cc      0x43c
+ .text.LIB_SMS_ConvAlphaToCharSet
+                0x102e29cc      0x43c E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(lib_ril_sms.o)
+                0x102e29cc                LIB_SMS_ConvAlphaToCharSet
+
+.text.LIB_SMS_ConvCharSetToAlpha
+                0x102e2e08      0x7b4
+ .text.LIB_SMS_ConvCharSetToAlpha
+                0x102e2e08      0x7b4 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(lib_ril_sms.o)
+                0x102e2e08                LIB_SMS_ConvCharSetToAlpha
+
+.text.LIB_SMS_DecodePDUStr
+                0x102e35bc      0x500
+ .text.LIB_SMS_DecodePDUStr
+                0x102e35bc      0x500 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(lib_ril_sms.o)
+                0x102e35bc                LIB_SMS_DecodePDUStr
+
+.text.LIB_SMS_EncodeSubmitPDU
+                0x102e3abc      0x730
+ .text.LIB_SMS_EncodeSubmitPDU
+                0x102e3abc      0x730 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(lib_ril_sms.o)
+                0x102e3abc                LIB_SMS_EncodeSubmitPDU
+
+.text.Ql_MEM_Alloc
+                0x102e41ec       0x78
+ .text.Ql_MEM_Alloc
+                0x102e41ec       0x78 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(memory.o)
+                0x102e41ec                Ql_MEM_Alloc
+
+.text.Ql_MEM_Free
+                0x102e4264       0x74
+ .text.Ql_MEM_Free
+                0x102e4264       0x74 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(memory.o)
+                0x102e4264                Ql_MEM_Free
+
+.text.ql_InitVFunc
+                0x102e42d8       0xd8
+ .text.ql_InitVFunc
+                0x102e42d8       0xd8 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_main.o)
+                0x102e42d8                ql_InitVFunc
+
+.text.ocpu_main
+                0x102e43b0       0xf0
+ .text.ocpu_main
+                0x102e43b0       0xf0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_main.o)
+                0x102e43b0                ocpu_main
+
+.text.proc_reserved2
+                0x102e44a0       0x70
+ .text.proc_reserved2
+                0x102e44a0       0x70 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ril_aux.o)
+                0x102e44a0                proc_reserved2
+
+.text.ril_StopATTimer
+                0x102e4510       0x34
+ .text.ril_StopATTimer
+                0x102e4510       0x34 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ril_main.o)
+
+.text.Callback_OnATTimer
+                0x102e4544       0x4c
+ .text.Callback_OnATTimer
+                0x102e4544       0x4c E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ril_main.o)
+
+.text.CallBack_SerialPort_Hdlr
+                0x102e4590      0x384
+ .text.CallBack_SerialPort_Hdlr
+                0x102e4590      0x384 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ril_main.o)
+
+.text.proc_reserved1
+                0x102e4914      0x200
+ .text.proc_reserved1
+                0x102e4914      0x200 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ril_main.o)
+                0x102e4914                proc_reserved1
+
+.text.Ql_RIL_Initialize
+                0x102e4b14       0xd4
+ .text.Ql_RIL_Initialize
+                0x102e4b14       0xd4 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ril_main.o)
+                0x102e4b14                Ql_RIL_Initialize
+
+.text.Ql_RIL_SendATCmd
+                0x102e4be8      0x260
+ .text.Ql_RIL_SendATCmd
+                0x102e4be8      0x260 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ril_main.o)
+                0x102e4be8                Ql_RIL_SendATCmd
+
+.text.Ql_RIL_WriteDataToCore
+                0x102e4e48       0x24
+ .text.Ql_RIL_WriteDataToCore
+                0x102e4e48       0x24 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ril_main.o)
+                0x102e4e48                Ql_RIL_WriteDataToCore
+
+.text.Ql_SOC_Register
+                0x102e4e6c       0x84
+ .text.Ql_SOC_Register
+                0x102e4e6c       0x84 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(socket.o)
+                0x102e4e6c                Ql_SOC_Register
+
+.text.Ql_SOC_CreateEx
+                0x102e4ef0       0x94
+ .text.Ql_SOC_CreateEx
+                0x102e4ef0       0x94 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(socket.o)
+                0x102e4ef0                Ql_SOC_CreateEx
+
+.text.Ql_SOC_Close
+                0x102e4f84       0x60
+ .text.Ql_SOC_Close
+                0x102e4f84       0x60 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(socket.o)
+                0x102e4f84                Ql_SOC_Close
+
+.text.Ql_SOC_ConnectEx
+                0x102e4fe4       0x78
+ .text.Ql_SOC_ConnectEx
+                0x102e4fe4       0x78 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(socket.o)
+                0x102e4fe4                Ql_SOC_ConnectEx
+
+.text.Ql_SOC_Send
+                0x102e505c       0x70
+ .text.Ql_SOC_Send
+                0x102e505c       0x70 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(socket.o)
+                0x102e505c                Ql_SOC_Send
+
+.text.Ql_SOC_Recv
+                0x102e50cc       0x70
+ .text.Ql_SOC_Recv
+                0x102e50cc       0x70 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(socket.o)
+                0x102e50cc                Ql_SOC_Recv
+
+.text.Ql_IpHelper_GetIPByHostName
+                0x102e513c       0x78
+ .text.Ql_IpHelper_GetIPByHostName
+                0x102e513c       0x78 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(socket.o)
+                0x102e513c                Ql_IpHelper_GetIPByHostName
+
+.text.Ql_IpHelper_ConvertIpAddr
+                0x102e51b4       0x68
+ .text.Ql_IpHelper_ConvertIpAddr
+                0x102e51b4       0x68 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(socket.o)
+                0x102e51b4                Ql_IpHelper_ConvertIpAddr
+
+.text.Ql_atof   0x102e521c       0x98
+ .text.Ql_atof  0x102e521c       0x98 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e521c                Ql_atof
+
+.text.Ql_strcpy
+                0x102e52b4       0xa0
+ .text.Ql_strcpy
+                0x102e52b4       0xa0 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e52b4                Ql_strcpy
+
+.text.Ql_strncpy
+                0x102e5354       0x88
+ .text.Ql_strncpy
+                0x102e5354       0x88 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e5354                Ql_strncpy
+
+.text.Ql_strlen
+                0x102e53dc       0x78
+ .text.Ql_strlen
+                0x102e53dc       0x78 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e53dc                Ql_strlen
+
+.text.Ql_strcmp
+                0x102e5454       0x68
+ .text.Ql_strcmp
+                0x102e5454       0x68 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e5454                Ql_strcmp
+
+.text.Ql_strncmp
+                0x102e54bc       0x70
+ .text.Ql_strncmp
+                0x102e54bc       0x70 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e54bc                Ql_strncmp
+
+.text.Ql_memset
+                0x102e552c       0x88
+ .text.Ql_memset
+                0x102e552c       0x88 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e552c                Ql_memset
+
+.text.Ql_memcpy
+                0x102e55b4       0x88
+ .text.Ql_memcpy
+                0x102e55b4       0x88 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e55b4                Ql_memcpy
+
+.text.Ql_memcmp
+                0x102e563c       0x70
+ .text.Ql_memcmp
+                0x102e563c       0x70 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e563c                Ql_memcmp
+
+.text.Ql_strstr
+                0x102e56ac       0x80
+ .text.Ql_strstr
+                0x102e56ac       0x80 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e56ac                Ql_strstr
+
+.text.Ql_toupper
+                0x102e572c        0x8
+ .text.Ql_toupper
+                0x102e572c        0x8 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e572c                Ql_toupper
+
+.text.Ql_tolower
+                0x102e5734        0x8
+ .text.Ql_tolower
+                0x102e5734        0x8 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e5734                Ql_tolower
+
+.text.Ql_atoi   0x102e573c       0x84
+ .text.Ql_atoi  0x102e573c       0x84 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e573c                Ql_atoi
+
+.text.Ql_Sleep  0x102e57c0       0x74
+ .text.Ql_Sleep
+                0x102e57c0       0x74 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(system.o)
+                0x102e57c0                Ql_Sleep
+
+.text.Ql_Reset  0x102e5834       0x74
+ .text.Ql_Reset
+                0x102e5834       0x74 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(system.o)
+                0x102e5834                Ql_Reset
+
+.text.Ql_GetSDKVer
+                0x102e58a8       0x64
+ .text.Ql_GetSDKVer
+                0x102e58a8       0x64 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(system.o)
+                0x102e58a8                Ql_GetSDKVer
+
+.text.Ql_OS_GetMessage
+                0x102e590c       0x60
+ .text.Ql_OS_GetMessage
+                0x102e590c       0x60 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102e590c                Ql_OS_GetMessage
+
+.text.Ql_OS_SendMessage
+                0x102e596c       0x78
+ .text.Ql_OS_SendMessage
+                0x102e596c       0x78 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102e596c                Ql_OS_SendMessage
+
+.text.Ql_OS_CreateMutex
+                0x102e59e4       0x54
+ .text.Ql_OS_CreateMutex
+                0x102e59e4       0x54 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102e59e4                Ql_OS_CreateMutex
+
+.text.Ql_OS_TakeMutex
+                0x102e5a38       0x54
+ .text.Ql_OS_TakeMutex
+                0x102e5a38       0x54 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102e5a38                Ql_OS_TakeMutex
+
+.text.Ql_OS_GiveMutex
+                0x102e5a8c       0x54
+ .text.Ql_OS_GiveMutex
+                0x102e5a8c       0x54 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102e5a8c                Ql_OS_GiveMutex
+
+.text.Ql_OS_CreateEvent
+                0x102e5ae0       0x54
+ .text.Ql_OS_CreateEvent
+                0x102e5ae0       0x54 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102e5ae0                Ql_OS_CreateEvent
+
+.text.Ql_OS_WaitEvent
+                0x102e5b34       0x68
+ .text.Ql_OS_WaitEvent
+                0x102e5b34       0x68 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102e5b34                Ql_OS_WaitEvent
+
+.text.Ql_OS_SetEvent
+                0x102e5b9c       0x68
+ .text.Ql_OS_SetEvent
+                0x102e5b9c       0x68 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102e5b9c                Ql_OS_SetEvent
+
+.text.Ql_OS_GetActiveTaskId
+                0x102e5c04       0x58
+ .text.Ql_OS_GetActiveTaskId
+                0x102e5c04       0x58 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102e5c04                Ql_OS_GetActiveTaskId
+
+.text.Ql_Timer_Register
+                0x102e5c5c       0x70
+ .text.Ql_Timer_Register
+                0x102e5c5c       0x70 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(timer.o)
+                0x102e5c5c                Ql_Timer_Register
+
+.text.Ql_Timer_Start
+                0x102e5ccc       0x70
+ .text.Ql_Timer_Start
+                0x102e5ccc       0x70 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(timer.o)
+                0x102e5ccc                Ql_Timer_Start
+
+.text.Ql_Timer_Stop
+                0x102e5d3c       0x60
+ .text.Ql_Timer_Stop
+                0x102e5d3c       0x60 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(timer.o)
+                0x102e5d3c                Ql_Timer_Stop
+
+.text.Ql_UART_Register
+                0x102e5d9c       0x70
+ .text.Ql_UART_Register
+                0x102e5d9c       0x70 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(uart.o)
+                0x102e5d9c                Ql_UART_Register
+
+.text.Ql_UART_Open
+                0x102e5e0c       0x70
+ .text.Ql_UART_Open
+                0x102e5e0c       0x70 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(uart.o)
+                0x102e5e0c                Ql_UART_Open
+
+.text.Ql_UART_Write
+                0x102e5e7c       0x70
+ .text.Ql_UART_Write
+                0x102e5e7c       0x70 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(uart.o)
+                0x102e5e7c                Ql_UART_Write
+
+.text.Ql_UART_Read
+                0x102e5eec       0x70
+ .text.Ql_UART_Read
+                0x102e5eec       0x70 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(uart.o)
+                0x102e5eec                Ql_UART_Read
+
+.text.Ql_UART_GetPinStatus
+                0x102e5f5c       0x68
+ .text.Ql_UART_GetPinStatus
+                0x102e5f5c       0x68 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(uart.o)
+                0x102e5f5c                Ql_UART_GetPinStatus
+
+.text.Ql_UART_SendEscap
+                0x102e5fc4       0x60
+ .text.Ql_UART_SendEscap
+                0x102e5fc4       0x60 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(uart.o)
+                0x102e5fc4                Ql_UART_SendEscap
+
+.text.OCPU_WTD_ChangeGPIOLevel
+                0x102e6024       0x38
+ .text.OCPU_WTD_ChangeGPIOLevel
+                0x102e6024       0x38 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(watchdog.o)
+                0x102e6024                OCPU_WTD_ChangeGPIOLevel
+
+.text.Ql_WTD_Calback
+                0x102e605c       0xc4
+ .text.Ql_WTD_Calback
+                0x102e605c       0xc4 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(watchdog.o)
+
+.text.Ql_WTD_Init
+                0x102e6120      0x100
+ .text.Ql_WTD_Init
+                0x102e6120      0x100 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(watchdog.o)
+                0x102e6120                Ql_WTD_Init
+
+.text.Ql_WTD_Start
+                0x102e6220       0xb4
+ .text.Ql_WTD_Start
+                0x102e6220       0xb4 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(watchdog.o)
+                0x102e6220                Ql_WTD_Start
+
+.text.Ql_WTD_Feed
+                0x102e62d4       0x5c
+ .text.Ql_WTD_Feed
+                0x102e62d4       0x5c E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(watchdog.o)
+                0x102e62d4                Ql_WTD_Feed
+
+.rodata         0x102e6330      0xfdc
+ *(.rodata)
+ .rodata        0x102e6330      0x11c ./ril/src/ril_bluetooth.o
+ .rodata        0x102e644c       0x1c ./ril/src/ril_dtmf.o
+ .rodata        0x102e6468       0x10 ./ril/src/ril_location.o
+ .rodata        0x102e6478       0x68 ./ril/src/ril_network.o
+ .rodata        0x102e64e0        0xc ./ril/src/ril_ntp.o
+ .rodata        0x102e64ec       0x48 ./ril/src/ril_sim.o
+ .rodata        0x102e6534        0x8 ./ril/src/ril_system.o
+ .rodata        0x102e653c      0x888 ./ril/src/ril_urc.o
+ .rodata        0x102e6dc4       0x28 ./custom/src/function.o
+ .rodata        0x102e6dec       0x44 ./custom/src/main.o
+ .rodata        0x102e6e30        0xc ./custom/src/mqtt.o
+ .rodata        0x102e6e3c       0x18 ./custom/src/sms.o
+ .rodata        0x102e6e54       0x5c ./custom/config/custom_sys_cfg.o
+                0x102e6e58                SystemCfg
+ .rodata        0x102e6eb0       0x70 ./custom/config/sys_config.o
+                0x102e6eb0                GpioConfigTbl
+                0x102e6ebc                TaskConfig
+ .rodata        0x102e6f20      0x3bc E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .rodata        0x102e72dc       0x16 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_main.o)
+ .rodata        0x102e72f2        0x4 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ril_main.o)
+ .rodata        0x102e72f6       0x16 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(system.o)
+
+.rodata.str1.4  0x102e730c     0x3014
+ .rodata.str1.4
+                0x102e730c       0x30 ./ril/src/ril_atResponse.o
+                                 0x34 (size before relaxing)
+ .rodata.str1.4
+                0x102e733c      0x518 ./ril/src/ril_bluetooth.o
+                                0x544 (size before relaxing)
+ .rodata.str1.4
+                0x102e7854       0xc3 ./ril/src/ril_dtmf.o
+                                 0xdc (size before relaxing)
+ *fill*         0x102e7917        0x1 
+ .rodata.str1.4
+                0x102e7918       0x57 ./ril/src/ril_init.o
+                                 0x58 (size before relaxing)
+ *fill*         0x102e796f        0x1 
+ .rodata.str1.4
+                0x102e7970       0x8d ./ril/src/ril_location.o
+                                 0xdc (size before relaxing)
+ *fill*         0x102e79fd        0x3 
+ .rodata.str1.4
+                0x102e7a00      0x11c ./ril/src/ril_network.o
+                                0x13c (size before relaxing)
+ .rodata.str1.4
+                0x102e7b1c       0x12 ./ril/src/ril_ntp.o
+                                 0x14 (size before relaxing)
+ *fill*         0x102e7b2e        0x2 
+ .rodata.str1.4
+                0x102e7b30       0xa4 ./ril/src/ril_sim.o
+                                 0xc8 (size before relaxing)
+ .rodata.str1.4
+                0x102e7bd4       0xbe ./ril/src/ril_sms.o
+                                 0xec (size before relaxing)
+ *fill*         0x102e7c92        0x2 
+ .rodata.str1.4
+                0x102e7c94       0x65 ./ril/src/ril_system.o
+                                 0x90 (size before relaxing)
+ *fill*         0x102e7cf9        0x3 
+ .rodata.str1.4
+                0x102e7cfc      0x188 ./ril/src/ril_urc.o
+                                0x194 (size before relaxing)
+ .rodata.str1.4
+                0x102e7e84       0x15 ./ril/src/ril_util.o
+                                 0x20 (size before relaxing)
+ *fill*         0x102e7e99        0x3 
+ .rodata.str1.4
+                0x102e7e9c       0x77 ./custom/src/MODBUS.o
+                                 0x7c (size before relaxing)
+ *fill*         0x102e7f13        0x1 
+ .rodata.str1.4
+                0x102e7f14      0x320 ./custom/src/function.o
+                                0x344 (size before relaxing)
+ .rodata.str1.4
+                0x102e8234      0x97e ./custom/src/main.o
+                                0xa18 (size before relaxing)
+ *fill*         0x102e8bb2        0x2 
+ .rodata.str1.4
+                0x102e8bb4      0x6a8 ./custom/src/memory.o
+                                0x6b8 (size before relaxing)
+ .rodata.str1.4
+                0x102e925c      0x120 ./custom/src/mqtt.o
+                                0x1e8 (size before relaxing)
+ .rodata.str1.4
+                0x102e937c      0x3d5 ./custom/src/sms.o
+                                0x474 (size before relaxing)
+ *fill*         0x102e9751        0x3 
+ .rodata.str1.4
+                0x102e9754       0x38 ./custom/src/watchdog_task.o
+ .rodata.str1.4
+                0x102e978c      0x801 ./custom/fota/src/fota_http.o
+                                0x808 (size before relaxing)
+ *fill*         0x102e9f8d        0x3 
+ .rodata.str1.4
+                0x102e9f90      0x152 ./custom/fota/src/fota_http_code.o
+                                0x15c (size before relaxing)
+ *fill*         0x102ea0e2        0x2 
+ .rodata.str1.4
+                0x102ea0e4      0x23c ./custom/fota/src/fota_main.o
+
+.rodata.str1.1  0x102ea320      0x894
+ .rodata.str1.1
+                0x102ea320      0x15c E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+ .rodata.str1.1
+                0x102ea47c       0x4e E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fota.o)
+ .rodata.str1.1
+                0x102ea4ca       0x9a E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gpio.o)
+ .rodata.str1.1
+                0x102ea564       0xcb E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gprs.o)
+ .rodata.str1.1
+                0x102ea62f       0x19 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(memory.o)
+ .rodata.str1.1
+                0x102ea648       0x56 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_main.o)
+ .rodata.str1.1
+                0x102ea69e       0x1e E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ril_main.o)
+                                 0x25 (size before relaxing)
+ .rodata.str1.1
+                0x102ea6bc      0x151 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(socket.o)
+ .rodata.str1.1
+                0x102ea80d       0xa1 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(stdlib_func.o)
+ .rodata.str1.1
+                0x102ea8ae       0x3d E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(system.o)
+ .rodata.str1.1
+                0x102ea8eb      0x157 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(taskMngt.o)
+ .rodata.str1.1
+                0x102eaa42       0x45 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(timer.o)
+ .rodata.str1.1
+                0x102eaa87      0x108 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(uart.o)
+ .rodata.str1.1
+                0x102eab8f       0x25 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(watchdog.o)
+
+.rel.dyn        0x102eabb4        0x0
+ .rel.iplt      0x00000000        0x0 ./ril/src/ril_alarm.o
+
+.data           0xf03d2000      0x108 load address 0x102eabb8
+                0x102eabb8                PROVIDE (__data_load, LOADADDR (.data))
+                0xf03d2000                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0xf03d2000        0x1 ./ril/src/ril_bluetooth.o
+ *fill*         0xf03d2001        0x3 
+ .data          0xf03d2004       0x20 ./ril/src/ril_init.o
+                0xf03d2004                g_LimitedCmds
+                0xf03d200c                g_InitCmds
+ .data          0xf03d2024       0x1c ./custom/src/declaration.o
+                0xf03d2024                APN_TOT_COUNTER
+                0xf03d2025                APN_RUN_COUNTER
+                0xf03d2028                TOT_DEV_ID
+                0xf03d202c                slave_id
+                0xf03d2030                version
+                0xf03d2034                bat_disconnect_stat
+                0xf03d2038                dly_cnt
+                0xf03d203c                time_out_timer
+ .data          0xf03d2040       0x1c ./custom/src/main.o
+                0xf03d2040                callback_gprs_func
+                0xf03d2048                callback_soc_func
+ .data          0xf03d205c       0x34 ./custom/fota/src/fota_http.o
+                0xf03d205c                HttpGetHead
+                0xf03d2074                Httpcallback_gprs_func
+                0xf03d207c                Httpcallback_SOC_func
+ .data          0xf03d2090        0x4 ./custom/fota/src/fota_http_code.o
+ .data          0xf03d2094       0x44 ./custom/fota/src/fota_main.o
+                0xf03d2094                Fota_passwd
+                0xf03d20b4                Fota_userid
+                0xf03d20d4                g_FOTA_State
+ .data          0xf03d20d8       0x18 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_func.o)
+                0xf03d20d8                api_notsup
+ .data          0xf03d20f0        0x4 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ril_aux.o)
+                0xf03d20f0                g_ril_auxTaskId
+ .data          0xf03d20f4       0x10 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ril_main.o)
+                0xf03d2108                . = ALIGN (0x8)
+ *fill*         0xf03d2104        0x4 
+                0xf03d2108                PROVIDE (_edata, .)
+
+.igot.plt       0xf03d2108        0x0 load address 0x102eacc0
+ .igot.plt      0x00000000        0x0 ./ril/src/ril_alarm.o
+
+.bss            0xf03d2108     0x45d0 load address 0x102eacc0
+                0xf03d2108                PROVIDE (__bss_start__, .)
+ *(.bss)
+ .bss           0xf03d2108        0x4 ./ril/src/ril_atResponse.o
+ .bss           0xf03d210c        0x4 ./ril/src/ril_audio.o
+                0xf03d210c                cb_aud_play
+ .bss           0xf03d2110       0x98 ./ril/src/ril_bluetooth.o
+ .bss           0xf03d21a8        0x4 ./ril/src/ril_custom.o
+                0xf03d21a8                cb_rcvCoreData
+ .bss           0xf03d21ac       0x10 ./ril/src/ril_dtmf.o
+ .bss           0xf03d21bc       0x18 ./ril/src/ril_http.o
+                0xf03d21c0                http_url_addr
+                0xf03d21c4                http_url_addr_len
+                0xf03d21c8                http_post_msg
+                0xf03d21cc                http_post_msg_len
+                0xf03d21d0                callback_http_dwnld
+ .bss           0xf03d21d4        0x4 ./ril/src/ril_location.o
+ .bss           0xf03d21d8        0x4 ./ril/src/ril_ntp.o
+ .bss           0xf03d21dc        0x1 ./ril/src/ril_sms.o
+ .bss           0xf03d21dd        0x1 ./ril/src/ril_system.o
+                0xf03d21dd                IsDataReadSuccess
+ *fill*         0xf03d21de        0x2 
+ .bss           0xf03d21e0        0x8 ./ril/src/ril_urc.o
+                0xf03d21e0                FtpGet_IND_CB
+                0xf03d21e4                FtpPut_IND_CB
+ .bss           0xf03d21e8      0x20c ./custom/src/MODBUS.o
+                0xf03d21e8                modbus_flag
+                0xf03d21ec                byte_count
+                0xf03d23f0                hardware_id
+ .bss           0xf03d23f4       0xa4 ./custom/src/declaration.o
+                0xf03d23f4                SMS_CLEAR
+                0xf03d23f5                PRODUCT
+                0xf03d23f6                datalen_10
+                0xf03d23f8                APN_FILE_LENGTH
+                0xf03d23fa                PUMP_ON_DETECT
+                0xf03d23fb                PREV_TAB
+                0xf03d23fc                RS485_READ_QUERY_SEND
+                0xf03d23fd                RS485_QUERY_COUNT
+                0xf03d23fe                RS485_QUERY
+                0xf03d23ff                RS485_COMM_FAIL
+                0xf03d2400                que
+                0xf03d2404                modbus_write
+                0xf03d2408                RSET_TOT_2
+                0xf03d240c                RSET_TOT_1
+                0xf03d2410                RSET_TOT
+                0xf03d2414                SET_TOT_2
+                0xf03d2418                SET_TOT_1
+                0xf03d241c                SET_TOT
+                0xf03d2420                NETWORK_RST
+                0xf03d2424                bat_disc_alert
+                0xf03d2425                first_data_packet_send
+                0xf03d2426                temper_alert
+                0xf03d2427                temper_send_flag
+                0xf03d2428                temper_state
+                0xf03d2429                serial_transfer
+                0xf03d242a                MODBUS_TRANSMIT
+                0xf03d242b                SLASH_T_SUB
+                0xf03d242c                SLASH_C_SUB
+                0xf03d242e                update_trial
+                0xf03d2430                send_count
+                0xf03d2434                CREG_COUNT
+                0xf03d2438                ON_PACK_FLAG
+                0xf03d2439                update_stat
+                0xf03d243a                update_flag
+                0xf03d243b                modbus_urc
+                0xf03d243c                publish_urc
+                0xf03d2440                gsm_error
+                0xf03d2444                ping_flag
+                0xf03d2445                connection_est
+                0xf03d2446                get_fmeter_data
+                0xf03d2448                fmeter_interval
+                0xf03d244c                publish_timer
+                0xf03d2450                error
+                0xf03d2454                fmeter_length
+                0xf03d2458                Timeout_Flag
+                0xf03d2459                mqtt_rcv_flag
+                0xf03d245a                sms_read_error
+                0xf03d245b                sms_init_done
+                0xf03d245c                device_reset
+                0xf03d2460                watchdog_cnt
+                0xf03d2464                send_flag
+                0xf03d2468                manual_mode
+                0xf03d246c                msg_extract_done
+                0xf03d2470                Primary_SocketId
+                0xf03d2474                len
+                0xf03d2478                dataLen
+                0xf03d247c                length
+                0xf03d2480                ber
+                0xf03d2484                File_Ret
+                0xf03d2488                iRet
+                0xf03d248c                Status
+                0xf03d2490                timer_cnt
+                0xf03d2494                timer_start
+ .bss           0xf03d2498        0x4 ./custom/src/file_system.o
+                0xf03d2498                writenLen
+ .bss           0xf03d249c      0x200 ./custom/src/function.o
+ .bss           0xf03d269c      0xaec ./custom/src/main.o
+ .bss           0xf03d3188      0x200 ./custom/src/memory.o
+ .bss           0xf03d3388      0x204 ./custom/src/mqtt.o
+ .bss           0xf03d358c      0x200 ./custom/src/sms.o
+ .bss           0xf03d378c      0x200 ./custom/src/watchdog_task.o
+ .bss           0xf03d398c        0x8 ./custom/fota/src/fota_http_code.o
+                0xf03d398c                dbg_httpresponse
+                0xf03d3990                dbg_ContentLength
+ .bss           0xf03d3994       0x68 ./custom/fota/src/fota_main.o
+                0xf03d3994                Fota_UpgardeState
+                0xf03d3998                Fota_apn
+ .bss           0xf03d39fc       0x60 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+ .bss           0xf03d3a5c       0x14 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fota.o)
+ .bss           0xf03d3a70       0x20 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gpio.o)
+                0xf03d3a70                m_GPIO_Init
+                0xf03d3a74                m_GPIO_SetLevel
+                0xf03d3a78                m_GPIO_GetLevel
+                0xf03d3a7c                m_GPIO_SetDirection
+                0xf03d3a80                m_GPIO_GetDirection
+                0xf03d3a84                m_GPIO_SetPullSelection
+                0xf03d3a88                m_GPIO_GetPullSelection
+                0xf03d3a8c                m_GPIO_Uninit
+ .bss           0xf03d3a90       0x28 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gprs.o)
+ .bss           0xf03d3ab8        0x8 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(memory.o)
+ .bss           0xf03d3ac0       0x24 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_func.o)
+                0xf03d3ac0                m_StartPlayAudioStream
+                0xf03d3ac4                m_get_api_ptr
+                0xf03d3ac8                m_StopPlayAudioStream
+                0xf03d3acc                m_GetRelativeTime_Counter
+                0xf03d3ad0                m_SecondToTicks
+                0xf03d3ad4                m_MillisecondToTicks
+                0xf03d3ad8                m_CalendarTime2LocalTime
+                0xf03d3adc                m_osChangeTaskPriority
+                0xf03d3ae0                m_create_api_hash
+ .bss           0xf03d3ae4       0x10 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_main.o)
+                0xf03d3ae8                runinfo
+ .bss           0xf03d3af4        0x1 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ril_aux.o)
+                0xf03d3af4                g_ril_auxTaskReady
+ *fill*         0xf03d3af5        0x3 
+ .bss           0xf03d3af8      0xc34 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ril_main.o)
+ .bss           0xf03d472c       0x4c E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(socket.o)
+ .bss           0xf03d4778       0x40 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(stdlib_func.o)
+ .bss           0xf03d47b8       0x14 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(system.o)
+ .bss           0xf03d47cc       0x44 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(taskMngt.o)
+ .bss           0xf03d4810       0x10 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(timer.o)
+ .bss           0xf03d4820       0x3c E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(uart.o)
+ .bss           0xf03d485c       0x18 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(watchdog.o)
+                0xf03d4878                . = ALIGN (0x8)
+ *fill*         0xf03d4874        0x4 
+                0xf03d4878                PROVIDE (__bss_end__, .)
+ COMMON         0xf03d4878        0x4 ./ril/src/ril_system.o
+                0xf03d4878                SecureDataStringLen
+ COMMON         0xf03d487c      0x124 ./ril/src/ril_telephony.o
+                0xf03d487c                g_comingCall
+ COMMON         0xf03d49a0       0x3c ./custom/src/MODBUS.o
+                0xf03d49a0                filehandle
+                0xf03d49a4                m_RxBuf_Uart2
+                0xf03d49d8                numero
+ COMMON         0xf03d49dc      0xfe4 ./custom/src/declaration.o
+                0xf03d49dc                Select_Operator
+                0xf03d49e0                TIME
+                0xf03d49f0                modbus_str
+                0xf03d4ab8                upgrade_filename
+                0xf03d4ac4                response
+                0xf03d4c24                flow
+                0xf03d4c28                primary_server
+                0xf03d4c5c                hexVals
+                0xf03d4c60                cnt
+                0xf03d4c64                primary_port
+                0xf03d4c70                strAT
+                0xf03d4ca4                SET_TOT_BUFF
+                0xf03d4cb0                operator_code
+                0xf03d4cec                history_send_Data
+                0xf03d4e18                Admin_no
+                0xf03d4e2c                ip_addr
+                0xf03d4e34                fmeter_data
+                0xf03d4efc                FOTA_Buffer
+                0xf03d50fc                strImsi
+                0xf03d511c                port1
+                0xf03d5120                TOT2
+                0xf03d5124                DATE
+                0xf03d5134                Imei_No
+                0xf03d5154                TOT1
+                0xf03d5158                strmsg
+                0xf03d5204                Number
+                0xf03d5218                Imsi_No
+                0xf03d5238                APN
+                0xf03d525c                config_array
+                0xf03d5264                interval
+                0xf03d5270                cmd_buf
+                0xf03d52d4                strImei
+                0xf03d52f4                password_str
+                0xf03d5300                pdpCntxtId
+                0xf03d5304                sms_str
+                0xf03d53a4                rssi
+                0xf03d53a8                comma_cnt
+                0xf03d53ac                sms_flag
+                0xf03d53b0                store_imsi
+                0xf03d53d0                NO_OF_HW
+                0xf03d53dc                gsm_signal
+                0xf03d53e0                unit
+                0xf03d53e4                ret
+                0xf03d53e8                RTOT1
+                0xf03d53ec                operator_len
+                0xf03d53f0                RTOT2
+                0xf03d53f4                config_command
+                0xf03d53f8                PhNum
+                0xf03d540c                m_SocketRcvBuf
+ COMMON         0xf03d59c0       0x10 ./custom/src/file_system.o
+                0xf03d59c0                position
+                0xf03d59c4                writeedlen
+                0xf03d59c8                filesize
+                0xf03d59cc                readedlen
+ COMMON         0xf03d59d0      0x800 ./custom/src/main.o
+                0xf03d59d0                m_RxBuf_Uart_RS
+ COMMON         0xf03d61d0        0x4 ./custom/src/mqtt.o
+                0xf03d61d0                MQTT_PING_FAIL
+                0xf03d61d1                MQTT_SUB_FAIL
+                0xf03d61d2                MQTT_PUBLISH_FAIL
+                0xf03d61d3                MQTT_CONNECT_FAIL
+ COMMON         0xf03d61d4      0x234 ./custom/fota/src/fota_http.o
+                0xf03d61d4                httpMainContext
+ COMMON         0xf03d6408      0x2c0 ./custom/fota/src/fota_main.o
+                0xf03d6408                Fota_gprsCfg
+                0xf03d64b8                FotaConfig
+                0xf03d64c8                FOTA_DBGBuffer
+ COMMON         0xf03d66c8       0x10 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_main.o)
+                0xf03d66c8                Ql_snprintf
+                0xf03d66cc                Ql_sprintf
+                0xf03d66d0                Ql_Debug_Trace
+                0xf03d66d4                Ql_sscanf
+OUTPUT(APPGS3MDM32A01.elf elf32-littlearm)
+
+.comment        0x00000000       0x30
+ .comment       0x00000000       0x30 ./ril/src/ril_atResponse.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000000       0x31 ./ril/src/ril_audio.o
+ .comment       0x00000000       0x31 ./ril/src/ril_bluetooth.o
+ .comment       0x00000000       0x31 ./ril/src/ril_custom.o
+ .comment       0x00000000       0x31 ./ril/src/ril_dtmf.o
+ .comment       0x00000000       0x31 ./ril/src/ril_http.o
+ .comment       0x00000000       0x31 ./ril/src/ril_init.o
+ .comment       0x00000000       0x31 ./ril/src/ril_location.o
+ .comment       0x00000000       0x31 ./ril/src/ril_network.o
+ .comment       0x00000000       0x31 ./ril/src/ril_ntp.o
+ .comment       0x00000000       0x31 ./ril/src/ril_sim.o
+ .comment       0x00000000       0x31 ./ril/src/ril_sms.o
+ .comment       0x00000000       0x31 ./ril/src/ril_system.o
+ .comment       0x00000000       0x31 ./ril/src/ril_telephony.o
+ .comment       0x00000000       0x31 ./ril/src/ril_urc.o
+ .comment       0x00000000       0x31 ./ril/src/ril_util.o
+ .comment       0x00000000       0x31 ./custom/src/MODBUS.o
+ .comment       0x00000000       0x31 ./custom/src/declaration.o
+ .comment       0x00000000       0x31 ./custom/src/file_system.o
+ .comment       0x00000000       0x31 ./custom/src/function.o
+ .comment       0x00000000       0x31 ./custom/src/main.o
+ .comment       0x00000000       0x31 ./custom/src/memory.o
+ .comment       0x00000000       0x31 ./custom/src/mqtt.o
+ .comment       0x00000000       0x31 ./custom/src/sms.o
+ .comment       0x00000000       0x31 ./custom/src/watchdog_task.o
+ .comment       0x00000000       0x31 ./custom/fota/src/fota_http.o
+ .comment       0x00000000       0x31 ./custom/fota/src/fota_http_code.o
+ .comment       0x00000000       0x31 ./custom/fota/src/fota_main.o
+ .comment       0x00000000       0x31 ./custom/config/custom_sys_cfg.o
+ .comment       0x00000000       0x31 ./custom/config/sys_config.o
+ .comment       0x00000000       0x31 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+ .comment       0x00000000       0x31 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fota.o)
+ .comment       0x00000000       0x31 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gpio.o)
+ .comment       0x00000000       0x31 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gprs.o)
+ .comment       0x00000000       0x31 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .comment       0x00000000       0x31 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(memory.o)
+ .comment       0x00000000       0x31 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_func.o)
+ .comment       0x00000000       0x31 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_main.o)
+ .comment       0x00000000       0x31 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ril_aux.o)
+ .comment       0x00000000       0x31 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ril_main.o)
+ .comment       0x00000000       0x31 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(socket.o)
+ .comment       0x00000000       0x31 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(stdlib_func.o)
+ .comment       0x00000000       0x31 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(system.o)
+ .comment       0x00000000       0x31 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(taskMngt.o)
+ .comment       0x00000000       0x31 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(timer.o)
+ .comment       0x00000000       0x31 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(uart.o)
+ .comment       0x00000000       0x31 E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(watchdog.o)
+
+.ARM.attributes
+                0x00000000       0x2b
+ .ARM.attributes
+                0x00000000       0x2b ./ril/src/ril_atResponse.o
+ .ARM.attributes
+                0x0000002b       0x2b ./ril/src/ril_audio.o
+ .ARM.attributes
+                0x00000056       0x2b ./ril/src/ril_bluetooth.o
+ .ARM.attributes
+                0x00000081       0x2b ./ril/src/ril_custom.o
+ .ARM.attributes
+                0x000000ac       0x2b ./ril/src/ril_dtmf.o
+ .ARM.attributes
+                0x000000d7       0x2b ./ril/src/ril_http.o
+ .ARM.attributes
+                0x00000102       0x2b ./ril/src/ril_init.o
+ .ARM.attributes
+                0x0000012d       0x2b ./ril/src/ril_location.o
+ .ARM.attributes
+                0x00000158       0x2b ./ril/src/ril_network.o
+ .ARM.attributes
+                0x00000183       0x2b ./ril/src/ril_ntp.o
+ .ARM.attributes
+                0x000001ae       0x2b ./ril/src/ril_sim.o
+ .ARM.attributes
+                0x000001d9       0x2b ./ril/src/ril_sms.o
+ .ARM.attributes
+                0x00000204       0x2b ./ril/src/ril_system.o
+ .ARM.attributes
+                0x0000022f       0x2b ./ril/src/ril_telephony.o
+ .ARM.attributes
+                0x0000025a       0x2b ./ril/src/ril_urc.o
+ .ARM.attributes
+                0x00000285       0x2b ./ril/src/ril_util.o
+ .ARM.attributes
+                0x000002b0       0x2b ./custom/src/MODBUS.o
+ .ARM.attributes
+                0x000002db       0x2b ./custom/src/declaration.o
+ .ARM.attributes
+                0x00000306       0x2b ./custom/src/file_system.o
+ .ARM.attributes
+                0x00000331       0x2b ./custom/src/function.o
+ .ARM.attributes
+                0x0000035c       0x2b ./custom/src/main.o
+ .ARM.attributes
+                0x00000387       0x2b ./custom/src/memory.o
+ .ARM.attributes
+                0x000003b2       0x2b ./custom/src/mqtt.o
+ .ARM.attributes
+                0x000003dd       0x2b ./custom/src/sms.o
+ .ARM.attributes
+                0x00000408       0x2b ./custom/src/watchdog_task.o
+ .ARM.attributes
+                0x00000433       0x2b ./custom/fota/src/fota_http.o
+ .ARM.attributes
+                0x0000045e       0x2b ./custom/fota/src/fota_http_code.o
+ .ARM.attributes
+                0x00000489       0x2b ./custom/fota/src/fota_main.o
+ .ARM.attributes
+                0x000004b4       0x2b ./custom/config/custom_sys_cfg.o
+ .ARM.attributes
+                0x000004df       0x2b ./custom/config/sys_config.o
+ .ARM.attributes
+                0x0000050a       0x2b E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fileSys.o)
+ .ARM.attributes
+                0x00000535       0x2b E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(fota.o)
+ .ARM.attributes
+                0x00000560       0x2b E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gpio.o)
+ .ARM.attributes
+                0x0000058b       0x2b E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(gprs.o)
+ .ARM.attributes
+                0x000005b6       0x2b E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .ARM.attributes
+                0x000005e1       0x2b E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(memory.o)
+ .ARM.attributes
+                0x0000060c       0x2b E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_func.o)
+ .ARM.attributes
+                0x00000637       0x2b E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ql_main.o)
+ .ARM.attributes
+                0x00000662       0x2b E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ril_aux.o)
+ .ARM.attributes
+                0x0000068d       0x2b E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ril_main.o)
+ .ARM.attributes
+                0x000006b8       0x2b E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(socket.o)
+ .ARM.attributes
+                0x000006e3       0x2b E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(stdlib_func.o)
+ .ARM.attributes
+                0x0000070e       0x2b E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(system.o)
+ .ARM.attributes
+                0x00000739       0x2b E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(taskMngt.o)
+ .ARM.attributes
+                0x00000764       0x2b E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(timer.o)
+ .ARM.attributes
+                0x0000078f       0x2b E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(uart.o)
+ .ARM.attributes
+                0x000007ba       0x2b E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(watchdog.o)
+ .ARM.attributes
+                0x000007e5       0x1d E:\Deepak\PROJECTS\RS485_TO_GSM\REV_TOT_EFM\RS-485\libs\gcc\libapp_start.a(ocpu_init.o)
+ .ARM.attributes
+                0x00000802       0x30 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000832       0x30 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000862       0x30 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000892       0x18 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x000008aa       0x18 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x000008c2       0x16 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000008d8       0x18 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x000008f0       0x18 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000908       0x18 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x00000920       0x18 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x00000938       0x18 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x00000950       0x18 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x00000968       0x18 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixsfsi.o)
+ .ARM.attributes
+                0x00000980       0x18 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixunssfsi.o)
+
+.debug_frame    0x00000000       0xc4
+ .debug_frame   0x00000000       0x38 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memcpy.o)
+ .debug_frame   0x00000038       0x2c C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memset.o)
+ .debug_frame   0x00000064       0x20 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strlen.o)
+ .debug_frame   0x00000084       0x20 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_udivsi3.o)
+ .debug_frame   0x000000a4       0x20 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_divsi3.o)
